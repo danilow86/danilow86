@@ -1,11 +1,15 @@
 Hi there, this is a little bit about me 👋
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-My name is Danilo, I am currently living in Porto but I am brazilian. Technology is my passion, so knowledge for me is the key for a successful life
+Enchanté, Je m'appelle Danilo
 
-🎓 I have a bachelor's degree on Analysis systems development 💻 and I work with technology since I was born. 
+I am Brazilian, always a student and totally dedicated to my career and family
 
-🤲🏾 Always able to help / support the tech community and I usually write posts to contribute. So I like to create things and contribute in some way.
+💻 Technology is my passion, so knowledge for me is the key for a successful life
+
+🎓 I have a bachelor's degree on Analysis systems development and I work with technology since I was born. 
+
+🤲🏾 Always able to help / support the tech community and I usually write posts to contribute. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SCENARIO: DEVELOPING MY CAREER 
@@ -34,9 +38,13 @@ STATS
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 TOP LANGUAGES
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danilow86&layout=compact&theme=highcontrast)](https://github.com/danilow86/github-readme-stats)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
